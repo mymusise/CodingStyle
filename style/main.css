@@ -1,7 +1,22 @@
 .logo {
     margin: auto;
-    width:            256px;
-    height:           256px;
-    background-size:  contain;
+    width: 256px;
+    height: 256px;
+    background-size: contain;
     background-image: url("/Coding-Style/images/logo/lemonless_coding_style_transparent.png");
+}
+
+.language {
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-size: contain;
+}
+
+.global {
+    background-image: url("/Coding-Style/images/language/global.png");
+}
+
+.javascript {
+    background-image: url("/Coding-Style/images/language/javascript.png");
 }
