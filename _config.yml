@@ -1,0 +1,9 @@
+url: "http://lemonless.github.io"
+baseurl: "/coding-style"
+timezone: Asia/Shanghai
+encoding: utf-8
+
+port: 3000
+host: 0.0.0.0
+
+markdown: kramdown

@@ -1,0 +1,7 @@
+.logo {
+    margin: auto;
+    width:            256px;
+    height:           256px;
+    background-size:  contain;
+    background-image: url("/coding-style/images/logo/lemonless_coding_style_transparent.png");
+}
