@@ -3,7 +3,7 @@
     width: 256px;
     height: 256px;
     background-size: contain;
-    background-image: url("/Coding-Style/images/logo/lemonless_coding_style_transparent.png");
+    background-image: url("/CodingStyle/images/logo/lemonless_coding_style_transparent.png");
 }
 
 .language {
@@ -14,9 +14,9 @@
 }
 
 .global {
-    background-image: url("/Coding-Style/images/language/coding.png");
+    background-image: url("/CodingStyle/images/language/coding.png");
 }
 
 .javascript {
-    background-image: url("/Coding-Style/images/language/javascript.png");
+    background-image: url("/CodingStyle/images/language/javascript.png");
 }
